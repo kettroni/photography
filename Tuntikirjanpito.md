@@ -1,6 +1,6 @@
 # Tuntikirjanpito
 
-**13.8.** : Projektin aloitus ja suunnittelua **3h**.
+**13.8.** : **3h** : Projektin aloitus ja suunnittelua.
+**18.8.** : **3,5h** Projektin muokkaaminen, jotta toimisi firebase alustalla, ei vielä onnistuneesti
 
-
-Yhteensä: **3h**
+Yhteensä: **6,5h**
