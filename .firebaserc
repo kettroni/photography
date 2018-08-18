@@ -1,5 +1,6 @@
 {
   "projects": {
-    "photographygallery": "myphotogallery-ea4bf"
+    "photographygallery": "myphotogallery-ea4bf",
+    "default": "myphotogallery-ea4bf"
   }
 }
